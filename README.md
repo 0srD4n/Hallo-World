@@ -1,4 +1,4 @@
-<h2 style="text-align:center"> Hallo World </h2>
+# Hallo World 
 
 
 
@@ -28,9 +28,15 @@ it just my dream.
 IM COOL PEOPLE LOL :p
 </pre>
 
-<h5 style="text-align:center"> My contact : </h5>
-<b style="color:green">Telegram:</b>
+## My contact : 
 
-```==> t.me/@XplDan ```
+**you can contact me for report bug in my github**
+
+* Telegram:
+
+```==> t.me/@XplDan 
+```
+
 * Email:
+
 ```==>XplDan@proton.me```
