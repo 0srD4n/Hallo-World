@@ -1,5 +1,7 @@
-Hallo World
-========================================================
+<h2 style="text-align:center"> Hallo World </h2>
+
+
+
 <pre>                                                  
                                                             
 @@@  @@@  @@@@@@@   @@@       @@@@@@@    @@@@@@   @@@  @@@  
@@ -13,29 +15,22 @@ Hallo World
  ::  :::   ::        :: ::::   :::: ::  ::   :::   ::   ::  
  :   ::    :        : :: : :  :: :  :    :   : :  ::    :  
 </pre>
----
-<b style="font-size: 12px;
-font-color:red">Hello , Im XplDan.</b>
-<br>
-<i>Im Newbie For coding :P. </i>
-<br>
-I dream of becoming invisible. 
-<br>
-|    First: no system is safe.|
-<br>
-|    Second: Aim for the impossible.|
-<br>
-|    Third: Have fun in cyberspace and real world |
-<br>
 
+<pre>
+Hallo , Im XplDan.
+Im Newbie For coding :P
+I dream of becoming invisible. 
+First: no system is safe.
+Second: Aim for the impossible
+Third: Have fun in cyberspace and real world |
 I wont to be invisble. 
 it just my dream.
+IM COOL PEOPLE LOL :p
+</pre>
 
-<h4 style="color:red;">IM COOL PEOPLE LOL :p</h4>
-==
-- My Kontak : <br>
-		--><b> Telegram </b>|<br>
-				>> t.me/@XplDan 	|<br>
-					--> <b>Email</b>	|<br>
-				>> XplDan@proton.me |<br>
-    ==
+<h5 style="text-align:center"> My contact : </h5>
+<b style="color:green">Telegram:</b>
+
+```==> t.me/@XplDan ```
+* Email:
+```==>XplDan@proton.me```
