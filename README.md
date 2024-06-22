@@ -34,8 +34,7 @@ IM COOL PEOPLE LOL :p
 
 * Telegram:
 
-```==> t.me/@XplDan 
-```
+```==> t.me/@XplDan ```
 
 * Email:
 
