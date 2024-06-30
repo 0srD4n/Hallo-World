@@ -1,3 +1,6 @@
+![MyGIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm43MjEzM2poazQ3N3d1dGQzY3BvdXl0Ym1hajNzMGV4ZzF3ZXNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qvTKHRRy7FLUrUqob0/giphy.gif)
+
+
 # Hallo World
 <pre>                                                  
                                                             
@@ -26,9 +29,6 @@ IM COOL PEOPLE LOL :p
 </pre>
 
 ## My contact : 
-![MyGIF](https://ibb.co.com/w7cq08N)
-
-<iframe src="https://giphy.com/embed/qvTKHRRy7FLUrUqob0" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qvTKHRRy7FLUrUqob0">via GIPHY</a></p>**you can contact me for report bug in my github**
 
 * Telegram:
 
