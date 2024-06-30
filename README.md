@@ -28,7 +28,7 @@ IM COOL PEOPLE LOL :p
 ## My contact : 
 ![MyGIF](https://ibb.co.com/w7cq08N)
 
-**you can contact me for report bug in my github**
+<iframe src="https://giphy.com/embed/qvTKHRRy7FLUrUqob0" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qvTKHRRy7FLUrUqob0">via GIPHY</a></p>**you can contact me for report bug in my github**
 
 * Telegram:
 
