@@ -3,8 +3,7 @@
 
 
  
-<a href="https://ibb.co.com/w7cq08N"><img src="https://i.ibb.co.com/5kK3MCW/gif2.gif" alt="gif2" border="0"></a>
-
+![My GIF](https://ibb.co.com/w7cq08N)
 
 
 
