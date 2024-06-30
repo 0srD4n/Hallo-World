@@ -1,14 +1,4 @@
 # Hallo World
-
-
-
- 
-![My GIF](https://ibb.co.com/w7cq08N)
-
-
-
-
-
 <pre>                                                  
                                                             
 @@@  @@@  @@@@@@@   @@@       @@@@@@@    @@@@@@   @@@  @@@  
@@ -36,6 +26,7 @@ IM COOL PEOPLE LOL :p
 </pre>
 
 ## My contact : 
+![MyGIF](https://ibb.co.com/w7cq08N)
 
 **you can contact me for report bug in my github**
 
